@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @c9obvi
-- 👀 I’m interested in cybersec, python, cannabis and Jiu Jitsu
-- 🌱 I’m currently learning Opsec and Jiu Jitsu
-- 💞️ I’m looking to collaborate on anything!
+
 - 📫 How to reach me twitter: @NimbleBerto
 
 <!---
