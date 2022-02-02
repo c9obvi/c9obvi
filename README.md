@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @c9obvi
+- 👋 Hi, I’m Berto, señor dev -- not senior! lol...
 
 - 📫 How to reach me twitter: @NimbleBerto
 
