@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alberto (₿erto) Septien. Señor Dev | Photographer | Technologist 
 
-🌍  I'm based in San Diego, California * 🧠  I'm learning Full Stack Web Dev Bootcamp * 🤝  I'm open to collaborating on Job opportunities, projects, start ups, community * ⚡  I’m a competitive NoGi grappler, I’ve spent time working in non-custodial crypto wallets, web3 projects, general e-commerce and video production
+🌍  I'm based in San Diego, California <br> 🧠  I'm learning Full Stack Web Dev Bootcamp <br> 🤝  I'm open to collaborating on Job opportunities, projects, start ups, community <br> ⚡  I’m a competitive NoGi grappler, I’ve spent time working in non-custodial crypto wallets, web3 projects, general e-commerce and video production
 
 ### Skills  
 
