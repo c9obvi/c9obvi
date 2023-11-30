@@ -12,4 +12,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Show some love 🍕
 
-<a href="https://www.buymeacoffee.com/0xBerto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="0xBerto" data-color="#3a87fe" data-emoji="🍔" data-font="Poppins" data-text="Buy me a burger" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
