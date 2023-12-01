@@ -1,13 +1,4 @@
-![](https://dhfzdqrudbfdfjgjlcjt.supabase.co/storage/v1/object/public/cdn/91A2F8AC-9D31-4BDA-B222-6D4233A81857.PNG)
-
-
-
-
-
-
-
-
-
+Hi ![](https://dhfzdqrudbfdfjgjlcjt.supabase.co/storage/v1/object/public/cdn/91A2F8AC-9D31-4BDA-B222-6D4233A81857.PNG)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alberto (₿erto) Septien. Señor Dev | Photographer | Technologist 
 
