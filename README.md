@@ -1,3 +1,7 @@
+![](https://dhfzdqrudbfdfjgjlcjt.supabase.co/storage/v1/object/public/cdn/91A2F8AC-9D31-4BDA-B222-6D4233A81857.PNG)
+
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alberto (₿erto) Septien. Señor Dev | Photographer | Technologist 
 
 🌍  I'm based in San Diego, California <br> 🧠  Currently in a Full Stack Web Dev, emphasis on backend <br> 🤝  I'm open to collaborating on Job opportunities, projects, start ups, community <br> ⚡  I’m a competitive NoGi grappler, I’ve spent time working in non-custodial crypto wallets, web3 projects, general e-commerce and video production
@@ -13,6 +17,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://www.linkedin.com/in/linkedin.com/in/alberto-septien-68b59b41" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/0xBerto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@0xBerto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Show some love 🍕
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitcoin.svg' alt='bitcoin' height='40'>](bc1qw05z2rq4lf8r84av7vkevl5jh88qa5mht5jhkd)  
+
 <a href="https://www.buymeacoffee.com/0xBerto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <!-- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="0xBerto" data-color="#3a87fe" data-emoji="🍔" data-font="Poppins" data-text="Buy me a burger" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script> -->
