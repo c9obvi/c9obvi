@@ -1,4 +1,3 @@
-![](https://dhfzdqrudbfdfjgjlcjt.supabase.co/storage/v1/object/public/cdn/91A2F8AC-9D31-4BDA-B222-6D4233A81857.PNG)
 <!--![](https://slackmojis.com/emojis/7160-spiderman_pointing/download)-->
 <!--![](https://slackmojis.com/emojis/6248-dumpster-fire/image/1694973284/dumpster-fire.gif)-->
 ![](https://slackmojis.com/emojis/16496-ironman/download)
