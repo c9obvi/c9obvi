@@ -1,8 +1,10 @@
 ![](https://dhfzdqrudbfdfjgjlcjt.supabase.co/storage/v1/object/public/cdn/91A2F8AC-9D31-4BDA-B222-6D4233A81857.PNG)
 <!--![](https://slackmojis.com/emojis/7160-spiderman_pointing/download)-->
-<!--![](https://slackmojis.com/emojis/6248-dumpster-fire/image/1694973284/dumpster-fire.gif)-->My name is Alberto (₿erto) Septien. Señor Dev | Photographer | Technologist 
+<!--![](https://slackmojis.com/emojis/6248-dumpster-fire/image/1694973284/dumpster-fire.gif)-->
 ![](https://slackmojis.com/emojis/16496-ironman/download)
-<br>🌍  I'm based in San Diego, California <br> 🧠  Currently in a Full Stack Web Dev, emphasis on backend <br> 🤝  I'm open to collaborating on Job opportunities, projects, start ups, community <br> ⚡  I’m a competitive NoGi grappler, I’ve spent time working in non-custodial crypto wallets, web3 projects, general e-commerce and video production
+My name is Alberto (₿erto) Septien. Señor Dev | Photographer | Technologist 
+
+🌍  I'm based in San Diego, California <br> 🧠  Currently in a Full Stack Web Dev, emphasis on backend <br> 🤝  I'm open to collaborating on Job opportunities, projects, start ups, community <br> ⚡  I’m a competitive NoGi grappler, I’ve spent time working in non-custodial crypto wallets, web3 projects, general e-commerce and video production
 
 ### Skills  
 
