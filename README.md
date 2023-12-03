@@ -1,6 +1,6 @@
 Hi ![](https://dhfzdqrudbfdfjgjlcjt.supabase.co/storage/v1/object/public/cdn/91A2F8AC-9D31-4BDA-B222-6D4233A81857.PNG)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alberto (₿erto) Septien. Señor Dev | Photographer | Technologist 
+Hi ![](https://slackmojis.com/emojis/6248-dumpster-fire/image/1694973284/dumpster-fire.gif)My name is Alberto (₿erto) Septien. Señor Dev | Photographer | Technologist 
 
 🌍  I'm based in San Diego, California <br> 🧠  Currently in a Full Stack Web Dev, emphasis on backend <br> 🤝  I'm open to collaborating on Job opportunities, projects, start ups, community <br> ⚡  I’m a competitive NoGi grappler, I’ve spent time working in non-custodial crypto wallets, web3 projects, general e-commerce and video production
 
