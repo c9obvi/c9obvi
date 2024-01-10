@@ -3,7 +3,7 @@
 ![](https://slackmojis.com/emojis/16496-ironman/download)
 My name is Alberto (₿erto) Septien. Señor Dev | Photographer | Technologist 
 
-🌍  I'm based in San Diego, California <br> 🧠  Currently in a Full Stack Web Dev, emphasis on backend <br> 🤝  I'm open to collaborating on Job opportunities, projects, start ups, community <br> ⚡  I’m a competitive NoGi grappler, I’ve spent time working in non-custodial crypto wallets, web3 projects, general e-commerce and video production
+🌍  I'm based in San Diego, California <br> 🧠  Currently in a Full Stack app and web app dev, emphasis on backend <br> 🤝  I'm open to collaborating on Job opportunities, projects, start ups, community <br> ⚡  I’m a competitive NoGi grappler, I’ve spent time working in non-custodial crypto wallets, web3 projects, general e-commerce and video production
 
 ### Skills  
 
