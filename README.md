@@ -1,5 +1,4 @@
 ![](https://slackmojis.com/emojis/7160-spiderman_pointing/download)
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/tavros.png)
 <img src="https://tryhackme-badges.s3.amazonaws.com/tavros.png" alt="TryHackMe">
 
 ![](https://slackmojis.com/emojis/16496-ironman/download)
