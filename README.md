@@ -1,6 +1,4 @@
 ![](https://slackmojis.com/emojis/7160-spiderman_pointing/download)
-<img src="https://tryhackme-badges.s3.amazonaws.com/tavros.png" alt="TryHackMe">
-
 ![](https://slackmojis.com/emojis/16496-ironman/download)
 My name is Alberto (₿erto) Septien. Señor Dev | Photographer | Technologist 
 
