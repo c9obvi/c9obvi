@@ -45,7 +45,7 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
   </a>
 </p>
 
-### AI
+### AI + AI Integrations
 <p align="left">
   <a href="https://www.openai.com/" target="_blank" rel="noreferrer" title="OpenAI">
     <img src="https://kefpobtqhbzqhtqtused.supabase.co/storage/v1/object/public/cdn/openai-svgrepo-com.svg?t=2024-09-20T02%3A09%3A06.295Z" width="36" height="36" alt="OpenAI" />
