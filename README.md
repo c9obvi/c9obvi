@@ -10,155 +10,31 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
 <div style="background-color: white; padding: 20px; border-radius: 10px;">
   <h2 style="color: black;">Skills</h2>  
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    
-    <!-- Languages -->
-    <div style="flex: 1 1 30%; margin-bottom: 20px;">
-      <h3>Languages</h3>
-      <p align="left">
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-        </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-        </a>
-        <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" title="Swift">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
-        </a>
-        <a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-        </a>
-      </p>
-    </div>
-    
-    <!-- Frontend -->
-    <div style="flex: 1 1 30%; margin-bottom: 20px;">
-      <h3>Frontend</h3>
-      <p align="left">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML5">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-        </a>
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" title="CSS3">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-        </a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="TailwindCSS">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-        </a>
-        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-        </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-        </a>
-      </p>
-    </div>
-    
-    <!-- Backend -->
-    <div style="flex: 1 1 30%; margin-bottom: 20px;">
-      <h3>Backend</h3>
-      <p align="left">
-        <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer" title="Flask">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
-        </a>
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="NodeJS">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-        </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-        </a>
-      </p>
-    </div>
-    
-    <!-- Databases -->
-    <div style="flex: 1 1 30%; margin-bottom: 20px;">
-      <h3>Databases</h3>
-      <p align="left">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-        </a>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-        </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-        </a>
-        <a href="https://supabase.io/" target="_blank" rel="noreferrer" title="Supabase">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
-        </a>
-      </p>
-    </div>
-    
-    <!-- Web3 -->
-    <div style="flex: 1 1 30%; margin-bottom: 20px;">
-      <h3>Web3</h3>
-      <p align="left">
-        <a href="https://uniswap.org/" target="_blank" rel="noreferrer" title="Uniswap">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" />
-        </a>
-        <a href="https://aave.com/" target="_blank" rel="noreferrer" title="AAVE">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" alt="AAVE" />
-        </a>
-        <a href="https://www.sushi.com/" target="_blank" rel="noreferrer" title="Sushiswap">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" alt="Sushiswap" />
-        </a>
-        <a href="https://metamask.io/" target="_blank" rel="noreferrer" title="MetaMask">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" />
-        </a>
-        <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer" title="Ethereum">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
-        </a>
-        <a href="https://polygon.technology/" target="_blank" rel="noreferrer" title="Polygon">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" />
-        </a>
-        <a href="https://www.avax.network/" target="_blank" rel="noreferrer" title="Avalanche">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" />
-        </a>
-        <a href="https://solana.com/" target="_blank" rel="noreferrer" title="Solana">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" />
-        </a>
-        <a href="https://ipfs.io/" target="_blank" rel="noreferrer" title="IPFS">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" />
-        </a>
-      </p>
-    </div>
-    
-    <!-- Tools -->
-    <div style="flex: 1 1 30%; margin-bottom: 20px;">
-      <h3>Tools</h3>
-      <p align="left">
-        <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer" title="Photoshop">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-        </a>
-        <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer" title="After Effects">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" />
-        </a>
-        <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer" title="Premiere Pro">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
-        </a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-        </a>
-        <a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="Flutter">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-        </a>
-        <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
-        </a>
-        <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer" title="Arduino">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
-        </a>
-      </p>
-    </div>
-    
-  </div>
-  
+ <style>
+  .skills-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .skills-section img {
+    transition: transform 0.2s;
+  }
+  .skills-section img:hover {
+    transform: scale(1.1);
+  }
+</style>
+
+<!-- Example for Languages -->
+### Languages
+<div class="skills-section">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <!-- Add other language icons here -->
 </div>
+
 
 <!--[![0xBerto's GitHub stats](https://github-readme-stats.vercel.app/api?username=c9obvi)]-->
 
