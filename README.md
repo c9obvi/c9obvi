@@ -12,6 +12,7 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
   
   <table>
     <tr>
+      <!-- Languages -->
       <td valign="top" width="33%">
         <h3>Languages</h3>
         <p align="left">
@@ -33,6 +34,7 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
         </p>
       </td>
       
+      <!-- Frontend -->
       <td valign="top" width="33%">
         <h3>Frontend</h3>
         <p align="left">
@@ -54,6 +56,7 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
         </p>
       </td>
       
+      <!-- Backend -->
       <td valign="top" width="33%">
         <h3>Backend</h3>
         <p align="left">
@@ -70,6 +73,7 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
       </td>
     </tr>
     <tr>
+      <!-- Databases -->
       <td valign="top" width="33%">
         <h3>Databases</h3>
         <p align="left">
@@ -91,6 +95,7 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
         </p>
       </td>
       
+      <!-- Web3 -->
       <td valign="top" width="33%">
         <h3>Web3</h3>
         <p align="left">
@@ -124,6 +129,7 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
         </p>
       </td>
       
+      <!-- Tools -->
       <td valign="top" width="33%">
         <h3>Tools</h3>
         <p align="left">
