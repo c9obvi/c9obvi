@@ -1,18 +1,5 @@
-<!--![](https://slackmojis.com/emojis/7160-spiderman_pointing/download)-->
-![](https://slackmojis.com/emojis/16496-ironman/download)
-My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photographer | Technologist 
-
-🌍  I'm based in San Diego, California <br> 
-🧠  Currently a full stack app and web app dev, emphasis on backend <br> 
-🤝  I'm open to collaborating on Job opportunities, projects, start ups, community <br> 
-⚡  I’m a competitive NoGi grappler, I’ve spent time working in non-custodial crypto wallets, web3 projects, general e-commerce and video production
-
----
-
-## Skills
-
+<!-- Languages -->
 ### Languages
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
@@ -31,8 +18,8 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
   </a>
 </p>
 
+<!-- Frontend -->
 ### Frontend
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
@@ -51,8 +38,8 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
   </a>
 </p>
 
+<!-- Backend -->
 ### Backend
-
 <p align="left">
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
@@ -65,8 +52,8 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
   </a>
 </p>
 
+<!-- Databases -->
 ### Databases
-
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
@@ -85,8 +72,8 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
   </a>
 </p>
 
+<!-- Web3 -->
 ### Web3
-
 <p align="left">
   <a href="https://uniswap.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" />
@@ -109,4 +96,36 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
   <a href="https://www.avax.network/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" />
   </a>
-  <a href="https://solana.com/" target
+  <a href="https://solana.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" />
+  </a>
+  <a href="https://ipfs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" />
+  </a>
+</p>
+
+<!-- Tools -->
+### Tools
+<p align="left">
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+  </a>
+  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" />
+  </a>
+  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
+  </a>
+  <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
+  </a>
+</p>
