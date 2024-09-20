@@ -7,24 +7,7 @@ My name is Alberto (₿erto) Septien. Full Stack Señor (not senior) Dev | Photo
 🤝  I'm open to collaborating on Job opportunities, projects, start ups, community <br> 
 ⚡  I’m a competitive NoGi grappler, I’ve spent time working in non-custodial crypto wallets, web3 projects, general e-commerce and video production
 
-<div style="background-color: white; padding: 20px; border-radius: 10px;">
   <h2 style="color: black;">Skills</h2>  
-  
- <style>
-  .skills-section {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 10px;
-    margin-bottom: 20px;
-  }
-  .skills-section img {
-    transition: transform 0.2s;
-  }
-  .skills-section img:hover {
-    transform: scale(1.1);
-  }
-</style>
 
 <!-- Example for Languages -->
 ### Languages
